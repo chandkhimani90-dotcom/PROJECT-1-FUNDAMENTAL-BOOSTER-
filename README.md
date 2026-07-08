@@ -80,7 +80,7 @@ The objective of this project is to demonstrate the use of fundamental Python co
 
 ## 👨‍💻 Author
 
-**Sun Patel**
+**chand khimani**
 
 BCA Student
 
